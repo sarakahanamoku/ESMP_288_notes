@@ -1,7 +1,6 @@
 ESPM 388
 ================
 Sara Kahanamoku
-1/18/2018
 
 ## Introduction
 

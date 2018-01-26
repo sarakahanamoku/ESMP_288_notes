@@ -1,7 +1,6 @@
 ---
 title: "ESPM 388"
 author: "Sara Kahanamoku"
-date: "1/18/2018"
 output: github_document
 ---
 
